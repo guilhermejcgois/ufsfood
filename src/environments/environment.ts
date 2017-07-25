@@ -12,5 +12,11 @@ export const environment = {
     projectId: 'ufsfood-ce233',
     storageBucket: 'ufsfood-ce233.appspot.com',
     messagingSenderId: '62531985938'
+  },
+  facebook: {
+    appId      : '669964396546095',
+    cookie     : true,
+    xfbml      : true,
+    version    : 'v2.8'
   }
 };

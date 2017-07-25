@@ -1,0 +1,7 @@
+.toolbar__logo {
+  flex-grow: 1;
+}
+
+.toolbar__buttons {
+  flex-grow: 2;
+}
